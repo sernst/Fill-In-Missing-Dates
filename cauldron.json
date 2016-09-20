@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "id": "Missing_Dates",
+  "name": "Missing_Dates",
+  "naming_scheme": "S{{##}}-{{name}}.{{ext}}",
+  "steps": [
+    "S01-list-of-dates.py",
+    "S02-list-of-temperatures.py",
+    "S03-remove-entries.py",
+    "S04-check-start-end.py",
+    "S05-find-missing.py"
+  ],
+  "summary": "",
+  "title": "Missing Dates"
+}
